@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotekaKlas", "BibliotekaKlas\BibliotekaKlas.csproj", "{7D45E947-F40E-43D7-A244-E8619903523D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WierszPolecen", "WierszPolecen\WierszPolecen.csproj", "{889CF6A4-723A-43E6-99F1-16EAF26FDE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D45E947-F40E-43D7-A244-E8619903523D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D45E947-F40E-43D7-A244-E8619903523D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D45E947-F40E-43D7-A244-E8619903523D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D45E947-F40E-43D7-A244-E8619903523D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889CF6A4-723A-43E6-99F1-16EAF26FDE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889CF6A4-723A-43E6-99F1-16EAF26FDE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889CF6A4-723A-43E6-99F1-16EAF26FDE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889CF6A4-723A-43E6-99F1-16EAF26FDE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {416A906A-DA24-42B5-B8B8-55662ABB599B}
+	EndGlobalSection
+EndGlobal

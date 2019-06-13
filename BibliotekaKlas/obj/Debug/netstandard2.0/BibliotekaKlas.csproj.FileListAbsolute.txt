@@ -1,0 +1,9 @@
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\bin\Debug\netstandard2.0\BibliotekaKlas.deps.json
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\bin\Debug\netstandard2.0\BibliotekaKlas.dll
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\bin\Debug\netstandard2.0\BibliotekaKlas.pdb
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\obj\Debug\netstandard2.0\BibliotekaKlas.csproj.CoreCompileInputs.cache
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\obj\Debug\netstandard2.0\BibliotekaKlas.AssemblyInfoInputs.cache
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\obj\Debug\netstandard2.0\BibliotekaKlas.AssemblyInfo.cs
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\obj\Debug\netstandard2.0\BibliotekaKlas.dll
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\obj\Debug\netstandard2.0\BibliotekaKlas.pdb
+C:\Users\MACIEK\source\repos\AplikcjaPracownicy\BibliotekaKlas\obj\Debug\netstandard2.0\BibliotekaKlas.csprojAssemblyReference.cache

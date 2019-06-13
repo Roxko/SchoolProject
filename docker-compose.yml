@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  wierszpolecen:
+    image: ${DOCKER_REGISTRY}wierszpolecen
+    build:
+      context: .\WierszPolecen
+      dockerfile: Dockerfile
